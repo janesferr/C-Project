@@ -1,0 +1,14 @@
+C:\Users\hamma\source\repos\FrontEnd\bin\Debug\FrontEnd.exe.config
+C:\Users\hamma\source\repos\FrontEnd\bin\Debug\FrontEnd.exe
+C:\Users\hamma\source\repos\FrontEnd\bin\Debug\FrontEnd.pdb
+C:\Users\hamma\source\repos\FrontEnd\bin\Debug\BusinessLayer.dll
+C:\Users\hamma\source\repos\FrontEnd\bin\Debug\Entity.dll
+C:\Users\hamma\source\repos\FrontEnd\bin\Debug\DataAccessLayer.dll
+C:\Users\hamma\source\repos\FrontEnd\bin\Debug\BusinessLayer.pdb
+C:\Users\hamma\source\repos\FrontEnd\bin\Debug\Entity.pdb
+C:\Users\hamma\source\repos\FrontEnd\bin\Debug\DataAccessLayer.pdb
+C:\Users\hamma\source\repos\FrontEnd\obj\Debug\FrontEnd.csprojAssemblyReference.cache
+C:\Users\hamma\source\repos\FrontEnd\obj\Debug\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\hamma\source\repos\FrontEnd\obj\Debug\FrontEnd.csproj.CopyComplete
+C:\Users\hamma\source\repos\FrontEnd\obj\Debug\FrontEnd.exe
+C:\Users\hamma\source\repos\FrontEnd\obj\Debug\FrontEnd.pdb
